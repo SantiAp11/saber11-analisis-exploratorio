@@ -50,3 +50,13 @@ Se encuentran disponibles en la siguiente carpeta de Google Drive:
 |------------------|-------------------|------------------|
 | ![Mapa](images/mapa.png) | ![Gráficos](images/graficos.png) | ![Top10](images/top10.png) |
 
+---
+## Conclusiones destacadas
+
+- Se esperaba una caída general en los puntajes promedio durante los años 2020 y 2021, debido a los retos pedagógicos y sociales asociados a la pandemia por COVID-19. Sin embargo, los datos no muestran una disminución drástica en el puntaje global ni en la mayoría de áreas.
+
+- De forma inesperada, **por primera vez en la historia del ICFES Saber 11**, se registraron **puntajes perfectos**, lo cual genera interrogantes sobre posibles anomalías o ajustes en el modelo de evaluación a partir del año 2020.
+
+- El tablero permite explorar visualmente estos fenómenos por área, ubicación y año, brindando herramientas para análisis más profundos por parte de instituciones educativas o investigadores.
+
+---
