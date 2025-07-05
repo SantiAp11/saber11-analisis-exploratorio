@@ -48,7 +48,7 @@ Se encuentran disponibles en la siguiente carpeta de Google Drive:
 
 | Mapa Interactivo | Gráficos por Área | Top 10 Colegios |
 |------------------|-------------------|------------------|
-| ![Mapa](images/mapa.png) | ![Gráficos](images/graficos.png) | ![Top10](images/top10.png) |
+| ![Mapa](images/mapa.png) | ![Gráficos](images/grafico.png) | ![Top10](images/top_10.png) |
 
 ---
 ## Conclusiones destacadas
