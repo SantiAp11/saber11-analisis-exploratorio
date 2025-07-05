@@ -30,13 +30,23 @@ Puedes ver el tablero en Tableau Public haciendo clic aquí:
 
 ---
 
+## Acceso a los archivos del proyecto
+
+Todos los archivos usados en este proyecto, incluyendo:
+
+- Datasets originales (Saber 11 - ICFES)
+- Archivos filtrados y procesados
+- Notebook de análisis exploratorio en Google Colab
+
+Se encuentran disponibles en la siguiente carpeta de Google Drive:
+
+[Acceder a la carpeta del proyecto](https://drive.google.com/drive/folders/1WF1kck7dWCApWErbAg5QRV_RqUqDkzG8?usp=drive_link)
+
+---
+
 ## Capturas del Dashboard
 
 | Mapa Interactivo | Gráficos por Área | Top 10 Colegios |
 |------------------|-------------------|------------------|
 | ![Mapa](images/mapa.png) | ![Gráficos](images/graficos.png) | ![Top10](images/top10.png) |
-
----
-
-
 
