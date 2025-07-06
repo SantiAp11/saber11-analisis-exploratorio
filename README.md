@@ -27,7 +27,7 @@ El dataset original contenía más de 7 millones de registros y más de 140 colu
 ## Dashboard interactivo
 
 Puedes ver el tablero en Tableau Public haciendo clic aquí:  
-[Ver Dashboard Saber 11 (2014–2024)](https://public.tableau.com/app/profile/tu_usuario/viz/nombre-del-tablero)
+[Ver Dashboard Saber 11 (2014–2024)](https://public.tableau.com/app/profile/santiago.aparicio.p.rez2653/viz/ICFES_17516865397720/DashboardICFES)
 
 ---
 
@@ -40,7 +40,7 @@ Todos los archivos usados en este proyecto, incluyendo:
 - Notebook de análisis exploratorio en Google Colab
 
 Se encuentran disponibles en la siguiente carpeta de Google Drive:  
-[Acceder a la carpeta del proyecto](https://drive.google.com/drive/folders/1WF1kck7dWCApWErbAg5QRV_RqUqDkzG8?usp=drive_link)
+[Acceder a la carpeta del proyecto](https://drive.google.com/drive/folders/1WF1kck7dWCApWErbAg5QRV_RqUqDkzG8?usp=sharing)
 
 ---
 
@@ -48,7 +48,7 @@ Se encuentran disponibles en la siguiente carpeta de Google Drive:
 
 | Mapa Interactivo | Gráficos por Área | Top 10 Colegios |
 |------------------|-------------------|------------------|
-| ![Mapa](images/mapa.png) | ![Gráficos](images/graficos.png) | ![Top10](images/top10.png) |
+| ![Mapa](images/mapa.PNG) | ![Gráficos](images/grafico.PNG) | ![Top10](images/top_10.PNG) |
 
 ---
 
