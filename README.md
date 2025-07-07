@@ -31,7 +31,7 @@ Este tablero permite explorar visualmente los datos desde múltiples perspectiva
 
 ### Vista general del tablero
 
-![Dashboard general](ruta/dashboard-general.png)
+![Dashboard general](images/dashboard-icfes.PNG)
 
 ### Mapa interactivo por municipio
 
