@@ -31,7 +31,7 @@ Este tablero permite explorar visualmente los datos desde múltiples perspectiva
 
 ### Vista general del tablero
 
-![Dashboard general](images/dashboard-icfes.PNG)
+![Dashboard general](images/Dashboard-icfes.PNG)
 
 ### Mapa interactivo por municipio
 
@@ -53,7 +53,7 @@ Todos los insumos utilizados en este proyecto están disponibles en la siguiente
 - Archivos procesados y filtrados
 - Notebook de análisis exploratorio en Google Colab
 
- **[Acceder a la carpeta del proyecto](https://tu-enlace-aqui.com)**
+ **[Acceder a la carpeta del proyecto](https://drive.google.com/drive/folders/1dUtMNtLml-qWlPmyPgIinsruDp8MdAoH?usp=sharing)**
 
 ## Conclusiones destacadas
 
